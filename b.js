@@ -634,7 +634,7 @@
 			for(a = 1; a < 800 / 60; a++) b = a * a * 5 + 25, p(1), M(30 * a + 400, 360, 240, !0, b), M(30 * -a + 400, 360, 240, !0, -b);
 			e.stroke();
 			va ? (C("controls", 400, 130, 12, [0, 16]), C("move             awsd", 400, 251, 12, [0, 0]), C("fire       left click", 400, 290, 12, [0, 0]), C("warptime  right click", 400, 330, 12, [0, 0])) : (C("winners don't use drugs", 401, 50, 9, [0, 0]), C("evil glitch", 400, 270 - 50 * N, 30 * (1 + N), [0, 9, 0, 9]));
-			C("made by agar3s", 401, 520, 9, [0, 10]);
+			C("made by agar3s / play on SoCoolGames", 401, 520, 9, [0, 10]);
 			e.closePath();
 			e.fill();
 			e.stroke();
